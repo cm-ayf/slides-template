@@ -18,7 +18,7 @@ jobs:
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
         with:
-          path: "**/*.qmd"
+          path: '"**/*.qmd"'
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v2
         with:
