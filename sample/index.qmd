@@ -1,0 +1,6 @@
+---
+lang: ja
+title: "Quartoでスライドを作ってGitHub Pagesで公開する"
+author: "🌱🌿☘️🍀"
+format: revealjs
+---
